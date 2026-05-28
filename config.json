@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervetch",
+        "uuid": 19371500,
+        "checksum": "5ev69f"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
